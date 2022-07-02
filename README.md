@@ -3,7 +3,7 @@
 ## AIM:
 To write a program to implement the K Means Clustering for Customer Segmentation.
 
-## EQUIPMENT'S REQUIRED:
+## EQUIPMENT'S REQUIRED: 
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
